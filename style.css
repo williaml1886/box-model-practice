@@ -8,6 +8,10 @@
 
 #title {
     background: yellow;
+    margin-bottom: 25px;
+    margin-top: 16px;
+    padding: 20px;
+    
     /*add CSS here*/
     
 }
@@ -15,13 +19,15 @@
 #subtitle {
     background: black;
     color: white;
+    margin-bottom: 90px;
     /*add CSS here*/
     
 }
 
 .topic {
     background: lightgray;
+    margin: 20px;
+     display: inline; 
     /*add CSS here*/
     
 }
-
